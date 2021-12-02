@@ -1,6 +1,6 @@
-# IMAZE
+# IMAZE Obstacle Avoidance Autonomous Bot
 
-This is a repository which contains details of the *imaze* project.
+This is a repository which contains details of the *Imaze Obstacle Avoidance Autonomous Bot* project.
 
 
 TASK
@@ -25,9 +25,3 @@ E-puck
 * It has one forehead camera.
 * It has 7 distance sensors of which you will be using only 4.
 * There will be some set of functions to access the sensor values and control the wheels.
-
-
-
-
-
-
