@@ -1,6 +1,6 @@
 # Autonomous Obstacle Avoidance Robot and Implementing Object Detection Based on Color
 This repository contains controller for 
-* Autonomous obstacle avoidance robot
+* Autonomous Obstacle Avoidance Robot
 * Implementing Object Detection Based on Color
 
 
