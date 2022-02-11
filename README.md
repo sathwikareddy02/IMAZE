@@ -14,7 +14,9 @@ E-puck
 * It has 7 distance sensors of which you will be using only 4.
 * There will be some set of functions to access the sensor values and control the wheels.
 
-## TASK for *Obstacle Avoidance Autonomous Bot* 
+## Obstacle Avoidance Autonomous Bot
+
+### Task
 
 Design a controller for an Autonomous robot that can navigate through the maze. The Bot should have the ability to avoid any
 kind of collision with the walls. To help you accomplish this task, you are given distance measuring sensors which can be
@@ -34,7 +36,9 @@ It has been designed for a professional use, and it is widely used in industry, 
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/85176591/152930716-c7e28243-0f0c-4a18-b6a2-a7f6515c30e8.png"><br /><br />
 
 
-## TASK for *Implementing Object Detection Based on Color* 
+## Implementing Object Detection Based on Color
+
+### Task
 
 Design a controller for an Autonomous robot that can hit the coloured boxes in the arena in the given order. The Bot should avoid other color boxes when trying to hit the target box in the arena. After hitting all the three coloured 
 boxes ( For ex. Green, Violet, Blue), it
