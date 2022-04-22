@@ -1,7 +1,7 @@
-# Autonomous Obstacle Avoidance Robot and Implementing Object Detection Based on Color
+# Autonomous Obstacle Avoidance and Implementing Processing Robot
 This repository contains controller for 
 * Autonomous Obstacle Avoidance Robot
-* Implementing Object Detection Based on Color
+* Implementing Image Processing Based on Color
 
 
 ## BOT SPECIFICATIONS
@@ -36,7 +36,7 @@ It has been designed for a professional use, and it is widely used in industry, 
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/85176591/152930716-c7e28243-0f0c-4a18-b6a2-a7f6515c30e8.png"><br /><br />
 
 
-## Implementing Object Detection Based on Color
+## Implementing Image Processing Based on Color
 
 ### Task
 
@@ -70,7 +70,7 @@ distance less than 20cm. Similarly it has to go and hit the other boxes(Blue,
 Violet and Red) in the order they are arranged from left to right. After hitting all
 the boxes the task will be completed.
 
-### Implementing Object Detection Based on Color using e-puck robot in Webots
+### Implementing Image Processing Based on Color using e-puck robot in Webots
 Here the bot targets and hits the objects in the order GREEN->BLUE->VOILET->RED and then stops by its own after the task.<br />
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/85176591/152931175-0fc22ce1-90f7-40fc-80d5-7c59bcc8c61e.png"><br /><br />
